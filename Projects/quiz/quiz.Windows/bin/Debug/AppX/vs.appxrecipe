@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>AYMAN-PC</Machine>
+    <WindowsUser>Ayman</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>49e6fe62-4d89-4fab-a6b0-5cb4d21d636a</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Ayman\Documents\Visual Studio 2013\Projects\quiz\quiz.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>D1EAB7BCA565E6AB90180E72FBFE5F48663BCE5A1A4443DF0C830CBAF6DCCE59</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>49e6fe62-4d89-4fab-a6b0-5cb4d21d636a_1.0.0.0_neutral__8ytsrh11tn700</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>49e6fe62-4d89-4fab-a6b0-5cb4d21d636a_8ytsrh11tn700!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>49e6fe62-4d89-4fab-a6b0-5cb4d21d636a</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Ayman</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Ayman\Documents\Visual Studio 2013\Projects\quiz\quiz.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-25T23:52:54.218</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Ayman\Documents\Visual Studio 2013\Projects\quiz\quiz.Windows\bin\Debug\quiz.Windows.exe">
+      <PackagePath>quiz.Windows.exe</PackagePath>
+      <Modified>2015-09-26T14:04:15.297</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ayman\Documents\Visual Studio 2013\Projects\quiz\quiz.Windows\Assets\back.jpg">
+      <PackagePath>Assets\back.jpg</PackagePath>
+      <Modified>2015-09-25T23:48:56.814</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ayman\Documents\Visual Studio 2013\Projects\quiz\quiz.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ayman\Documents\Visual Studio 2013\Projects\quiz\quiz.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ayman\Documents\Visual Studio 2013\Projects\quiz\quiz.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-26T01:15:16.261</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ayman\Documents\Visual Studio 2013\Projects\quiz\quiz.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ayman\Documents\Visual Studio 2013\Projects\quiz\quiz.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-09-25T23:31:09.741</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ayman\Documents\Visual Studio 2013\Projects\quiz\quiz.Windows\bin\Debug\learn.xbf">
+      <PackagePath>learn.xbf</PackagePath>
+      <Modified>2015-09-25T23:59:30.970</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ayman\Documents\Visual Studio 2013\Projects\quiz\quiz.Windows\bin\Debug\level.xbf">
+      <PackagePath>level.xbf</PackagePath>
+      <Modified>2015-09-25T23:58:12.500</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ayman\Documents\Visual Studio 2013\Projects\quiz\quiz.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-09-26T00:02:54.506</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ayman\Documents\Visual Studio 2013\Projects\quiz\quiz.Windows\bin\Debug\play.xbf">
+      <PackagePath>play.xbf</PackagePath>
+      <Modified>2015-09-26T00:02:54.507</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ayman\Documents\Visual Studio 2013\Projects\quiz\quiz.Windows\bin\Debug\quiz.Windows.xr.xml">
+      <PackagePath>quiz.Windows.xr.xml</PackagePath>
+      <Modified>2015-09-26T00:02:54.495</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ayman\Documents\Visual Studio 2013\Projects\quiz\quiz.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-09-25T23:52:54.097</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

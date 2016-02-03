@@ -1,0 +1,23 @@
+﻿<Page
+    x:Class="quiz.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:quiz"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <ScrollViewer>
+
+        <Grid Height="768" Width="1366">
+            <Grid.Background>
+                <ImageBrush ImageSource="Assets/back.jpg" Stretch="Fill"/>
+            </Grid.Background>
+            <Button Content="Learn" HorizontalAlignment="Left" Height="100" Margin="65,469,0,0" VerticalAlignment="Top" Width="265" FontSize="60" Background="#FF43B1DA" Click="AboutButton_Click"/>
+            <Button Content="Choose level" HorizontalAlignment="Left" Height="100" Margin="65,319,0,0" VerticalAlignment="Top" Width="265" FontSize="40" Click="LearnButton_Click" Background="#FF43B1DA"/>
+            <Button Content="Play" HorizontalAlignment="Left" Height="100" Margin="65,159,0,0" VerticalAlignment="Top" Width="265" FontSize="48" Background="#FF43B1DA" Click="Level_Click"/>
+
+        </Grid>
+    </ScrollViewer>
+</Page>
